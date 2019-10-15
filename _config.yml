@@ -7,7 +7,7 @@ description: "Stay Hungry, Stay Foolish."
 keyword: "IQ Overflow, IQ Overflow Blog, IQ Overflow的博客, fengjianyong, 冯建勇"
 url: "http://iIQOverflow.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/iIQOverflow/iIQOverflow.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
