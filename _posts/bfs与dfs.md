@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      DFS（深度优先搜索）与BFS（广度优先搜索）总结与思考
+subtitle:   DFS 与 BFS
+date:       2019-10-15
+author:     IQ Overflow
+header-img: img/avatar_JY.png
+catalog: 	 true
+tags:
+    - iOS
+    - 定时器
+---
+
 # DFS（深度优先搜索）与BFS（广度优先搜索）总结与思考
 ## Depth First Search(dfs)
 不管有多少条路，先一条道走到底，不断往下往后遍历，直到无路可走，再返回到上一个状态继续。常用递归实现，非递归常用**栈**存储待访问结点。使用**栈**的原因是栈是**后进先出**的，而dfs前次遍历到终点，下次迭代需要回到上一个状态。
